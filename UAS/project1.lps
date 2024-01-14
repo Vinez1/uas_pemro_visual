@@ -34,7 +34,6 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uLogin"/>
-        <IsVisibleTab Value="True"/>
         <TopLine Value="50"/>
         <CursorPos X="3" Y="52"/>
         <UsageCount Value="84"/>
@@ -66,7 +65,6 @@
         <CursorPos X="53" Y="105"/>
         <UsageCount Value="77"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="uTransaksi.pas"/>
@@ -87,11 +85,11 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uTambahTransaksi"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="7"/>
         <CursorPos X="33" Y="41"/>
         <UsageCount Value="70"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="utambahdetailtransaksi.pas"/>
@@ -118,7 +116,6 @@
         <CursorPos X="55" Y="119"/>
         <UsageCount Value="57"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="udatabarang.pas"/>
@@ -145,7 +142,6 @@
         <CursorPos X="30" Y="97"/>
         <UsageCount Value="54"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="utambahkategori.pas"/>
@@ -159,7 +155,6 @@
         <CursorPos X="17" Y="34"/>
         <UsageCount Value="52"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="uupdatekategori.pas"/>
@@ -172,7 +167,6 @@
         <CursorPos X="7" Y="83"/>
         <UsageCount Value="48"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="udatamaster.pas"/>
@@ -252,15 +246,7 @@
         <UsageCount Value="10"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="uReport.pas"/>
-        <Caret Line="120" Column="23" TopLine="100"/>
-      </Position>
-      <Position>
-        <Filename Value="udatakategoribarang.pas"/>
-        <Caret Line="92" Column="7" TopLine="61"/>
-      </Position>
+    <JumpHistory HistoryIndex="24">
       <Position>
         <Filename Value="utambahbarang.pas"/>
         <Caret Line="81" Column="56" TopLine="66"/>
@@ -344,18 +330,6 @@
       <Position>
         <Filename Value="utambahbarang.pas"/>
         <Caret Line="61" Column="54" TopLine="43"/>
-      </Position>
-      <Position>
-        <Filename Value="uupdatebarang.pas"/>
-        <Caret Line="100" Column="50" TopLine="97"/>
-      </Position>
-      <Position>
-        <Filename Value="uupdatebarang.pas"/>
-        <Caret Line="105" Column="53" TopLine="98"/>
-      </Position>
-      <Position>
-        <Filename Value="uReport.pas"/>
-        <Caret Line="92" Column="269" TopLine="66"/>
       </Position>
       <Position>
         <Filename Value="utambahdetailtransaksi.pas"/>
